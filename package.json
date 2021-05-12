@@ -27,7 +27,7 @@
     "@types/nodemailer": "^6.4.0",
     "google-auth-library": "^5.9.2",
     "mongoose": "^5.8.11",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
